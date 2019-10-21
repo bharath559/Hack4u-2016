@@ -1,4 +1,4 @@
-Flask==0.10.1
+Flask==1.0
 Flask-Sockets==0.1
 cryptography==1.0.1
 defer==1.0.4
