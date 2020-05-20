@@ -8,7 +8,7 @@ gevent==1.0.2
 gevent-websocket==0.9.5
 greenlet==0.4.9
 gunicorn==19.4.5
-httplib2==0.8
+httplib2==0.18.0
 ipaddress==1.0.14
 numpy==1.9.3
 paramiko==1.10.1
