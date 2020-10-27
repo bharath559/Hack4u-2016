@@ -1,6 +1,6 @@
 Flask==0.10.1
 Flask-Sockets==0.1
-cryptography==1.0.1
+cryptography==3.2
 defer==1.0.4
 dict==0.0.2
 enum34==1.0.4
