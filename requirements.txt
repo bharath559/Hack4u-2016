@@ -23,7 +23,7 @@ reportlab==3.0
 requests==2.2.1
 six==1.9.0
 ssh-import-id==3.21
-urllib3==1.7.1
+urllib3==1.26.5
 psycopg2
 virtualenv==14.0.5
 wsgiref==0.1.2
