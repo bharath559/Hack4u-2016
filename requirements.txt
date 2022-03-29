@@ -11,7 +11,7 @@ gunicorn==19.4.5
 httplib2==0.8
 ipaddress==1.0.14
 numpy==1.9.3
-paramiko==1.10.1
+paramiko==2.10.1
 pexpect==3.1
 pyOpenSSL==0.14
 pycparser==2.14
